@@ -1,0 +1,65 @@
+
+.Koronebut{ 
+   transform: translate(1000px);
+    background-color: white;
+    color: black;
+    border: none;
+        border-radius: 2px;
+        cursor: pointer;
+        margin-right: 8px;
+        transition: opacity 0.15s;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+        vertical-align: top;
+
+}
+
+.Koronebut:hover{
+    opacity: 0.8;
+}
+
+.Koronebut:active{
+      opacity: 0.5;
+}
+
+.texto1{
+    font-size: 30px;
+     margin-bottom: 50px;
+    font-size: 14px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+.titulotexto{
+    margin-left: 610px;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: yellow;
+}
+
+.texto2{
+    margin-left: 660px;
+     width: 200px;
+}
+
+.Koronelink{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.Koronelink:hover{
+
+}
+
+
+.img1{
+    margin-left: 260px;
+}
