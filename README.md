@@ -1,2 +1,2 @@
-# Poppin-Party-s-Korone-Shrine
+# Poppin'Party's Korone Shrine
 Made by Poppin'Party
